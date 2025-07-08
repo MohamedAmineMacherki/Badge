@@ -1,2 +1,1 @@
-# Badge code react js 
-Redux 
+# Badge code 
